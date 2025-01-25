@@ -30,10 +30,6 @@ This script requires:
    - Enter the game's Place ID
    - RAM will automatically launch separate Roblox instances for each account
 
-### Script Setup Instructions
-1. Purchase and install either SirHurt or Xeno executor (Sirhurt is paid, Xeno is free)
-2. Configure the script with your accounts:
-
 ```lua
 -- Alt Control Script Configuration
 _G.prefix = "/" -- Command prefix
@@ -50,8 +46,7 @@ _G.altAccounts = {
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Nuclearpotato69/Punchy-Alt-Control/main/main.lua", true))()
 ```
 
-3. Execute the script on your main account and all alt accounts
-4. Use the commands below to control your alts
+
 
 ## 📋 Command Categories
 
