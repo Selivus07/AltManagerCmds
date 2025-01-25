@@ -1,6 +1,5 @@
-# 🎮 Punchy Alt Control
+# 🎮 Selivus Alt Control
 
-A powerful and feature-rich Roblox alt control script that allows you to manage multiple alternative accounts with ease.
 
 ## ✨ Features
 - Simple setup and configuration
@@ -16,9 +15,7 @@ A powerful and feature-rich Roblox alt control script that allows you to manage 
 
 ### Prerequisites
 This script requires:
-1. A Roblox executor that supports multi-injection capabilities. Currently tested and compatible with:
-   - SirHurt Executor ([sirhurt.net](https://sirhurt.net))
-   - Xeno Executor ([xeno.now](https://xeno.now))
+1. A Roblox executor that supports multi-injection capabilities.
 2. Roblox Account Manager (RAM) for handling multiple instances ([Download Here](https://github.com/ic3w0lf22/Roblox-Account-Manager))
 
 ### Multiple Instance Setup
@@ -116,7 +113,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Nuclearpotato69/Punch
 ### Utility Commands
 - `/check` - Check bot number of main account
 - `/totalcmds` - Show total number of commands
-- `/credits` - Display credits
 
 ## 🛑 Stop Commands
 - `/unstare` - Stop staring
@@ -134,15 +130,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Nuclearpotato69/Punch
 - `/unswarm` - Stop swarming player
 
 ## 🔧 Troubleshooting
-- Ensure you're using a supported executor (SirHurt or Xeno)
+- Ensure you're using a supported executor (SirHurt, Wave, AWP.GG Xeno)
 - Verify that multi-injection is enabled in your executor
 - Check that all account names are spelled correctly in the configuration
 - Make sure all accounts are in the same Roblox game server
 - if theres bugs report them to punchingfella on discord please
 
 ## 📝 Credits
-Created by punchy39
-ty thegirloofboi (discord raphfeinusgcowner) for helping with ideas and bug testing
+Created by selivus07 (hi_igman on roblox)
 
 ## ⚖️ License
 This project is for educational purposes only. Use at your own risk.
