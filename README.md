@@ -137,7 +137,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Nuclearpotato69/Punch
 - if theres bugs report them to punchingfella on discord please
 
 ## 📝 Credits
-Created by selivus07 (hi_igman on roblox)
+Created by selivus07 / punchy (hi_igman on roblox)
 
 ## ⚖️ License
 This project is for educational purposes only. Use at your own risk.
